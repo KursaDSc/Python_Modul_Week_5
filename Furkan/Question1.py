@@ -15,4 +15,4 @@ rectangle = Rectangle(5, 7)
 rectangle_area = rectangle.area()
 rectangle_perimeter = rectangle.perimeter()
 
-print(f"Area: {rectangle_area}, Perimeter: {rectangle_perimeter}")
+print(f"Alan: {rectangle_area}, Cevre: {rectangle_perimeter}")
